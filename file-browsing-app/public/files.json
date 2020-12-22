@@ -12,7 +12,7 @@
         {
             "type": "pdf",
             "name": "Public Holiday policy",
-            "added": "2020-12-06",
+            "dateAdded": "2020-12-06",
             "fileSize": 15
         },
         {
@@ -22,7 +22,7 @@
                 {
                     "type": "doc",
                     "name": "Expenses claim form",
-                    "dataAdded": "2017-05-02",
+                    "dateAdded": "2017-05-02",
                     "fileSize": 10
                 },
                 {

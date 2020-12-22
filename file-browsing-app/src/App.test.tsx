@@ -1,6 +1,6 @@
-import { shallow } from 'enzyme';
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { shallow } from 'enzyme';
 import App from './App';
 
 it('Basic test to make sure things are working', () => {

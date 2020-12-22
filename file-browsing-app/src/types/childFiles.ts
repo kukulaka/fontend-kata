@@ -3,7 +3,6 @@
         name: string;
         dataAdded: string;
         fileSize: number;
-        dateAdded: string;
     }
 
 
