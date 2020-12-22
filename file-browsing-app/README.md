@@ -13,7 +13,7 @@ This project is a file browsing app. The web page will be able to:
 This project with bootstrapped with the React Typescript template and uses [Jest](https://jestjs.io/) and [Enzyme](https://enzymejs.github.io/enzyme/). 
 Also used is [Ant Design](https://ant.design/) for the UI framework. 
 
-```files.json``` is found in public folder as in most instances data is retrieved from an API and not a local json file. 
+```files.json``` is found in public folder as in most instances data is retrieved from an API and not a local JSON file. 
 
 # Getting Started with Create React App
 
