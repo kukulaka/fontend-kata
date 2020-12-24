@@ -5,6 +5,8 @@ export interface AllFiles {
     name: string;
     dateAdded: string;
     fileSize: number;
-    added: string;
     files: ChildFiles[];
 }
+
+
+

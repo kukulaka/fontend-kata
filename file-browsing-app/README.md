@@ -4,16 +4,16 @@ Testing kata submitted by Tanya Byrne
 
 ## About this project
 
-This project is a file browsing app. The web page will be able to: 
+This project is a file explorer app. The web page will be able to: 
  - Display the files and folders on the webpage
  - Allow a user to expand a folder to see it's contents
  - Sort by name/ /size / date
  - Filter by filename
 
-This project with bootstrapped with the React Typescript template and uses [Jest](https://jestjs.io/) and [Enzyme](https://enzymejs.github.io/enzyme/). 
-Also used is [Ant Design](https://ant.design/) for the UI framework. 
+This project with bootstrapped with the React Typescript template and uses [Jest](https://jestjs.io/), [Enzyme](https://enzymejs.github.io/enzyme/) and [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/). 
+Also used is [Ant Design](https://ant.design/) for UI. 
 
-```files.json``` is found in public folder as in most instances data is retrieved from an API and not a local JSON file. 
+```files.json``` is found in public folder as in most usual instances data is retrieved from an API and not a local JSON file. 
 
 # Getting Started with Create React App
 
