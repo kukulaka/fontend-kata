@@ -5,10 +5,10 @@ Testing kata submitted by Tanya Byrne
 ## About this project
 
 This project is a file explorer app. The web page will be able to: 
- - Display the files and folders on the webpage
- - Allow a user to expand a folder to see it's contents
- - Sort by name/ /size / date
- - Filter by filename
+ - [ ] Display the files and folders on the webpage
+ - [ ] Allow a user to expand a folder to see it's contents
+ - [ ] Sort by name/ /size / date
+ - [ ] Filter by filename
 
 This project with bootstrapped with the React Typescript template and uses [Jest](https://jestjs.io/), [Enzyme](https://enzymejs.github.io/enzyme/) and [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/). 
 Also used is [Ant Design](https://ant.design/) for UI. 
