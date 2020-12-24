@@ -1,13 +1,10 @@
 import React from 'react';
 import { Row, Col } from 'antd';
 
-type Props = {
-    files: object,
-   
-  };
 
-const FileList = ({  files }: Props) => {
 
+const FileList = (props: any) => {
+ //to do: Display files and folders as table with sort on each column
 
     return (
 

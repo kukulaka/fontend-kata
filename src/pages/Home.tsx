@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Row, Col, Spin, Alert, Divider } from 'antd';
+import { Row, Col, Spin, Alert } from 'antd';
 import { getFileData } from '../api/getFileData';
 import { ApiResponse } from '../types/apiResponse';
 import SearchBox  from '../components/SearchBox';
@@ -63,7 +63,6 @@ const Home = (props: any) => {
         <Col span={24}>
             <div className="loading">
                 <SearchBox />
-                <Divider />
             </div>
         </Col>
     </Row>

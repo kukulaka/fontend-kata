@@ -1,12 +1,17 @@
 import React from 'react';
-import { Input } from 'antd';
+import { Input, Divider } from 'antd';
+import FileList from '../components/FileList';
 
-
+ //to do filter function and props to filelist
 
 const SearchBox = (props: any) => {
 
     return (
-        <Input.Search size="large" placeholder="Enter file name" enterButton />
+        <div>
+        <Input.Search size="large" placeholder="Search for files" enterButton />
+        <Divider />
+        <FileList />
+        </div>
     );
 };
 
