@@ -1,0 +1,68 @@
+{
+    "driveName": "Shared Drive",
+    "files": [
+        {
+            "type": "pdf",
+            "name": "An interesting file about cats",
+            "dateAdded": "2017-01-06",
+            "fileSize": 10
+            
+        
+        },
+        {
+            "type": "pdf",
+            "name": "Public Holiday policy",
+            "dateAdded": "2020-12-06",
+            "fileSize": 15
+        },
+        {
+            "type": "folder",
+            "name": "Expenses",
+            "files": [
+                {
+                    "type": "doc",
+                    "name": "Expenses claim form",
+                    "dateAdded": "2017-05-02",
+                    "fileSize": 10
+                },
+                {
+                    "type": "doc",
+                    "name": "Fuel allowances",
+                    "dateAdded": "2017-05-03",
+                    "fileSize": 125
+                }
+            ]
+        },
+        {
+            "type": "csv",
+            "name": "Cost centres",
+            "dateAdded": "2016-08-12",
+            "fileSize": 100
+        },
+        {
+            "type": "folder",
+            "name": "Misc and cats",
+            "files": [
+                {
+                    "type": "doc",
+                    "name": "Christmas party",
+                    "dateAdded": "2017-12-01",
+                    "fileSize": 2
+                },
+                {
+                    "type": "mov",
+                    "name": "Welcome to the company!",
+                    "dateAdded": "2015-04-24",
+                    "fileSize": 10000
+                },
+                {
+                    "type": "mov",
+                    "name": "Piano cat",
+                    "dateAdded": "2002-04-24",
+                    "fileSize": 15000
+
+                }
+            ]
+        }
+    ]
+}
