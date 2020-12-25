@@ -2,30 +2,33 @@
     "driveName": "Shared Drive",
     "files": [
         {
+            "key": 0,
             "type": "pdf",
             "name": "An interesting file about cats",
             "dateAdded": "2017-01-06",
             "fileSize": 10
-            
-        
         },
         {
+            "key": 1,
             "type": "pdf",
             "name": "Public Holiday policy",
             "dateAdded": "2020-12-06",
             "fileSize": 15
         },
         {
+            "key": 2,
             "type": "folder",
             "name": "Expenses",
             "files": [
                 {
+                    "key": 3,
                     "type": "doc",
                     "name": "Expenses claim form",
                     "dateAdded": "2017-05-02",
                     "fileSize": 10
                 },
                 {
+                    "key": 4,
                     "type": "doc",
                     "name": "Fuel allowances",
                     "dateAdded": "2017-05-03",
@@ -34,33 +37,37 @@
             ]
         },
         {
+            "key": 5,
             "type": "csv",
             "name": "Cost centres",
             "dateAdded": "2016-08-12",
             "fileSize": 100
         },
         {
+            "key": 6,
             "type": "folder",
             "name": "Misc and cats",
             "files": [
                 {
+                    "key": 7,
                     "type": "doc",
                     "name": "Christmas party",
                     "dateAdded": "2017-12-01",
                     "fileSize": 2
                 },
                 {
+                    "key": 8,
                     "type": "mov",
                     "name": "Welcome to the company!",
                     "dateAdded": "2015-04-24",
                     "fileSize": 10000
                 },
                 {
+                    "key": 9,
                     "type": "mov",
                     "name": "Piano cat",
                     "dateAdded": "2002-04-24",
                     "fileSize": 15000
-
                 }
             ]
         }

@@ -1,6 +1,6 @@
 import { AllFiles } from "./allFiles";
 
 export interface UserDrive {
-    driveName: string;
+    driveName?: string;
     files: AllFiles[];
 }
