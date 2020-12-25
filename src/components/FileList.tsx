@@ -87,7 +87,7 @@ const FileList: React.FC<UserDrive> = ({ files }) => {
         <Row gutter={{ xs: 8, sm: 16, md: 24, lg: 32 }}>
             <Col className="gutter-row" span={24}>
                 <Table<AllFiles> columns={columns} dataSource={files} expandable={{
-                    expandedRowRender: record => <div><p style={{ margin: 0 }}>This would contain a table of children files for <strong>{record.name}</strong> if I implimented this! Instead it has a cat photo</p> <br /><Image
+                    expandedRowRender: record => <div><p style={{ margin: 0 }}>This would contain a table of children files for <strong>{record.name}</strong> if I implemented this! Instead it has a cat photo</p> <br /><Image
                         preview={false}
                         src="http://placekitten.com/g/200/300"
                         width={200}
