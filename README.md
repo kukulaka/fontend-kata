@@ -6,7 +6,7 @@ Testing kata submitted by Tanya Byrne
 
 This project is a file explorer app. The web page will be able to: 
  - [x] Display the files and folders on the webpage
- - [ ] Allow a user to expand a folder to see it's contents - have added an expander for this but have not implimented the subfiles. There is a surprise instead :smile_cat:!
+ - [ ] Allow a user to expand a folder to see it's contents - have added an expander for this but have not implemented the subfiles. There is a surprise instead :smile_cat:!
  - [x] Sort by name/ /size / date - size sort not implemented 
  - [X] Filter by filename
 
