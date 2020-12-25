@@ -1,4 +1,4 @@
-# BrightHR Frontend Kata
+# Frontend Kata
 
 Testing kata submitted by Tanya Byrne
 
