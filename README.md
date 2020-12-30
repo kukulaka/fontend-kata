@@ -10,8 +10,10 @@ This project is a file explorer app. The web page will be able to:
  - [x] Sort by name/ /size / date - size sort not implemented 
  - [X] Filter by filename
 
-This project with bootstrapped with the React Typescript template and uses [Jest](https://jestjs.io/), [Enzyme](https://enzymejs.github.io/enzyme/) and [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/). 
+This project is bootstrapped with the React Typescript template and uses [Jest](https://jestjs.io/), [Enzyme](https://enzymejs.github.io/enzyme/) and [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/). 
 Also used is [Ant Design](https://ant.design/) for UI. 
+
+Typescript used as strong static typing can help in spotting bugs earlier, but I could also have used plain ES6. 
 
 ```files.json``` is found in public folder as in most usual instances data is retrieved from an API and not a local JSON file. 
 
